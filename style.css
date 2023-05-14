@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul, ol {
+        display: inline-block;
+        text-align: left;
+        margin-left: 150px;
+}
+
+
+h1 {
+    background-color: red;
+    color: white;
+}
+img {
+    border: solid red 2px;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: green;
+}
+h2 {
+    background-color: black;
+    color: white;
+}
+p {
+    font-size: 20px;
+}
